@@ -65,6 +65,6 @@ Shipping/payment addresses
 Audit logs
 
 
-See the demonstration in the included video .
+See the demonstration in the included video => https://youtube.com/shorts/PlJ2J2-a3H8?si=kxQw33Tyq0d62m4i
 
 Best regards .
