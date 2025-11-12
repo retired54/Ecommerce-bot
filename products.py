@@ -11,7 +11,7 @@ PRODUCT_NAMES = {
     "men_jeans":  "MEN'S_JEANS",
     "women_jeans":  "WOMEN'S_JEANS",
     "children_jeans":  "CHILDREN'S_JEANS",
-    "anyproducts":   "ANYPRODUCTS",
+    
 }
 
 def product_list_kb() -> InlineKeyboardMarkup:
