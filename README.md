@@ -1,9 +1,9 @@
 # Ecommerce-bot
-1 . presentation :
+**A** : presentation :
 
-This is Exemple in telegram  , Smart   e-commerce bot  that  makes shopping easier and faster .
+-  This is Exemple in telegram  , Smart   e-commerce bot  that  makes shopping easier and faster .
 
-2 . Features : 
+**B** : Features : 
 
 1 / Password + captcha protection before accessing the store If you are requesting a password and verification because you want something special with it or you just want this feature, the password and verification feature, this is it. the best exemple .
 
@@ -19,7 +19,7 @@ This is Exemple in telegram  , Smart   e-commerce bot  that  makes shopping easi
 
 7 / Support button (SOS)
 
-3. HOW IT WORKS :
+**C**: HOW IT WORKS :
 
 1 / User types /start
 
@@ -39,14 +39,14 @@ See cart summary
 
 Proceed to checkout & payment instructions
 
-6. Technologies Used :
+**D**: Technologies Used :
 
 - Python 3
 - Aiogram 
 - FSM (Finite State Machine) for auth flow
 - SQLite database
 
-7. Database :
+**E** : Database :
 
 This bot uses SQLite to store all important data, including:
 
